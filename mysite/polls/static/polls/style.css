@@ -1,0 +1,41 @@
+body{
+    background-color: #120a8f;
+;
+}
+.heading{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    margin-top: 30px;
+}
+.poll{
+    width: 70%;
+    margin-top: 30px;
+    margin-left: 15%;
+
+    margin-right: 15%;
+    border: 1px solid red;
+    color: white;
+    padding: 20px;
+}
+.poll li {
+    list-style: none;
+    color: #120a8f;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(180, 7, 7);
+
+    text-decoration: none;
+    padding: 15px;
+    border: 1px solid gainsboro;
+    margin: 10px;
+}
+.poll a{
+    text-decoration: none;
+    
+}
+a{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
